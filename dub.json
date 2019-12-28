@@ -1,0 +1,8 @@
+{
+	"name": "stamp-gen",
+	"dependencies": {
+		"imageformats": "~>7.0.2",
+		"barcode": "~>0.6.0",
+		"derelict-ft": "~>2.0.0-beta.5"
+	}
+}
